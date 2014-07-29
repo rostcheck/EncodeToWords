@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncodeToWords", "EncodeToWords\EncodeToWords.csproj", "{9EA08D38-E2E7-4056-B4E6-C570F1A00390}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordEncoder", "WordEncoder\WordEncoder.csproj", "{899A07A9-0DF5-45B6-BB5F-452D7EE5EE60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EA08D38-E2E7-4056-B4E6-C570F1A00390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA08D38-E2E7-4056-B4E6-C570F1A00390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA08D38-E2E7-4056-B4E6-C570F1A00390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA08D38-E2E7-4056-B4E6-C570F1A00390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{899A07A9-0DF5-45B6-BB5F-452D7EE5EE60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899A07A9-0DF5-45B6-BB5F-452D7EE5EE60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899A07A9-0DF5-45B6-BB5F-452D7EE5EE60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899A07A9-0DF5-45B6-BB5F-452D7EE5EE60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
